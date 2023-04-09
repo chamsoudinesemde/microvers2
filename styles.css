@@ -1,0 +1,27 @@
+
+nav{   
+    list-style-type: none;
+    border-style: solid;
+    border: solid; 
+    width: 25%;
+    height:max-content;
+    float: left;
+    display:block;
+    margin: 0;
+    padding: 0;
+    /*margin-right: 50px;*/
+    position:fixed;
+    overflow: auto;
+  }
+
+
+  main{
+    border: solid; 
+    width: 75%;
+    height: 100%;
+    float:right;
+    margin: 0;
+    padding: 0;
+    display: inline;   
+    /*position: fixed;*/  
+  }
